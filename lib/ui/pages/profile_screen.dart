@@ -85,7 +85,7 @@ class ProfileScreen extends StatelessWidget {
                       ),
                       trailing: ClipOval(
                         child: Image.asset(
-                          "assets/user.jpg",
+                          "assets/profile.jpg",
                           width: 40,
                           height: 40,
                         ),
